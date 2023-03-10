@@ -1,0 +1,8 @@
+{
+    "goerli":{
+        "INIT": 0
+    },
+    "localhost": {
+        "INIT": 0
+    }
+}
